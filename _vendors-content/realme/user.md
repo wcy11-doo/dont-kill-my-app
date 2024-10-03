@@ -1,27 +1,27 @@
 ---
 manufacturer: 
-    - realme
+- realme
 
 ---
 
-Luckily, the system restrictions are all gathered at one place in the system settings in Battery section, and also have some description there.
+幸运的是，系统限制都聚集在一个地方的系统设置在电池部分，也有一些描述。
 
-<div class="img-block">
-  <figure>
-    <img src="/assets/img/realme/realme_1.jpg">
-    <figcaption>Settings -> Battery</figcaption>
-  </figure>
+<级班级="img-block">
+  <数字>
+    <百万毫克学生代表会="/assets/img/realme/realme_1.jpg">
+    <图>设置->电池</图>
+  </数字>
 
-</div>
+</级>
 
 
-## Power saving options
+##节能选项
 
-* <strong>Power saving mode</strong> - reduces screen brightness, changes auto screen-off time to 15s and disables background sync.<br>
-Can be set to launch automatically at a set battery level.<br>
-It may terminate background processes.<br>
+* <强大的>节能模式</强大的>-降低屏幕亮度，改变自动屏幕关闭时间为15秒和禁用背景同步。<溴>
+可以设置为在设定的电池电量水平上自动发射。<溴>
+它可以终止后台进程。<溴>
 
-* <strong>Super power sawing mode</strong>  - extra saving option, allows you to have at most 6 apps to use.<br>
+* <强大的>超强锯切模式</强大的>-额外的保存选项，允许您最多有6个应用程序使用。<溴>
 It will disrupt background processes.
 
 
